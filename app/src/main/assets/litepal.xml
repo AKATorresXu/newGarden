@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="farmUser12"/>
+    <version value="10"/>
+    <list>
+        <mapping class="com.example.obtorres.godblessme.farmUser"></mapping>
+        <mapping class="com.example.obtorres.godblessme.FriutMore"></mapping>
+    </list>
+</litepal>
